@@ -1,0 +1,3 @@
+I didn't used the familiar codes for finding out the local max in signals because the signal is rectangular and the system 
+finds the both edges of rectangulare as the local max however I need just one value as a local max.As we are going to count
+the gaits and we use the number of max as the gait, so we just need one value for each gait
